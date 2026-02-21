@@ -14,7 +14,4 @@ Para correr el programa:
    ./build/curva
    ```
 
-## Recursos adicionales
-Para esta tarea, se utilizó la herramienta de Geogebra que construye las curvas de Bézier mediante puntos proporcionados en el plano.
 
-[Recurso de Geogebra](https://www.geogebra.org/m/aewq7v9w)
