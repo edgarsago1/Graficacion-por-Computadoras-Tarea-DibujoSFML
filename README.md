@@ -1,5 +1,5 @@
 # Primer Dibujo en SFML :D
-
+Dibujamos una imagen a partir del algoritmo de Chainkin.
 ## Ejecución y Requirements
 Para poder emplear el programa, es necesario contar con CMake version 3.28 (mínimo), además de contar con SFML 3.
 
